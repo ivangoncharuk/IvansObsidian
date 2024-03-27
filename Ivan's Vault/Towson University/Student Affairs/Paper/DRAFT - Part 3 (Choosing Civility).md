@@ -1,0 +1,9 @@
+#choosing_civility_paper 
+
+Based on what I've learned about civility and the Tiger Pledge, I've figured out some steps I can take to be a better member of the Towson University community. First , I need to watch what I say, especially when talking to members of the TU staff. Another thing is making sure I know the policies of where I'm going. The book talks about being on time as a way to show respect not just to the person you're visiting, but also to the institution and its rules (2002, pp. 126-131). In the university setting, front desk security help keep everything in order. So, by being on time and following the rules, such as showing the proper identification without any unnecessary stickers. I need to show respect to everyone involved, from my friends to the guards to the university itself.
+
+Keeping a good attitude is also key. My bad behavior in the elevator wasn't just rude to the CCA but it was also disrespectful to the TU community. Just like the book points out, everyone from the front desk security to students plays a part in making a community safe and welcoming (2002, pp. 126-131). So, treating people nicely isn't just a one-on-one thing; it's about making the whole place better for everyone.
+
+I also need to take responsibility for my actions. Ignoring the hold on my account for this long was a mistake. From now on, I'll deal with important alerts to my education like that right away. This is in line with the Tiger Pledge, which stresses the importance of being accountable for what you do.
+
+All in all, these steps aren't just about staying out of trouble. They're about making TU a better place for everyone, by sticking to the rules and policies and treating everyone with respect.

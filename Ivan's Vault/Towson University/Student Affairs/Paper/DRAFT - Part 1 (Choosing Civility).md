@@ -1,0 +1,14 @@
+#choosing_civility_paper 
+
+- Define civility based on your readings. Quote relevant passages.
+- Describe how civility is essential for communal living and why it is particularly important in a university setting.
+
+My readings have led me to appreciate that civility isn't simply about adhering to social norms or how one projects themselves in a social setting. It serves as the adhesive that binds communities, including Towson University. As described by Pippin in his book, civility involves a range of respectful behaviors. One must yield with grace in debates, acknowledging the merit in another person's argument without becoming hostile. This serves as a mark of maturity and garners respect. Civility also involves responding carefully to challenges to prevent escalating conflict, which helps maintain a harmonious environment. Finally, it calls for the acknowledgment of one's own mistakes, demonstrating humility and a willingness to grow (Pippin, 2002).
+
+During my recent incident with the CCA, some of these tenets were notably absent. By making unsolicited comments in the elevator, I undermined the mutual respect and maturity that should ideally characterize my interactions within the TU community. My failure to restrain any rude comments escalated a situation that could have passed peacefully. Though my recollection of the event is spotty, I accept that I was most likely at fault and commit to amending my behavior.
+
+Pippin profoundly stated that "Being civil to one another is much more active and positive good than mere politeness or courtesy... it is not the sort of thing that can be 'demanded' as a matter of duty, like a moral entitlement" (Pippin, 2002, p. 11). This interpretation elevates civility from simple polite gestures to proactive acts that contribute to societal and relational well-being. It stresses that civility isn't just about avoiding confrontation; it’s about creating a supportive, harmonious community.
+
+But the concept of civility also extends into the broader responsibilities we bear as citizens and neighbors. This notion aligns perfectly with the TU Tiger Pledge, which emphasizes not only the need for personal respect but also for collective good. It includes commitments like "I will respect myself and others" and "I will be accountable for my actions" (Towson University, n.d.). The pledge reinforces that the true essence of civility goes beyond mere politeness to include a collective ethical code.
+
+My actions in that elevator failed not just to meet the principles of civility but also broke faith with the Tiger Pledge’s commitments. In doing so, I fell short of the communal values that we as TU community members have pledged to uphold. My future actions will strive to bridge this gap, fully embracing both the complexities of civility and the straightforward ethics of the Tiger Pledge.

@@ -1,0 +1,10 @@
+- [[Flutter]] and dart #flutter 
+- [[RStudio]] and R
+- [[Python]] for database and data science
+- [[React]] and [[JavaScript]]
+- More [[Java]] and make [[Necesse Mods]]
+- [[AutoGPT]] Scripts #ai 
+- [[Bash]]
+- [[Nmap]]
+- [[WireShark]]
+- 

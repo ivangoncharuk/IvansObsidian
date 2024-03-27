@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "ca27e6ebcc5331ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c13e71ea0d8bd91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a02531a31a1a8a2d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "524a4a1ec4d6a057",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "631406d0d00ff377",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "50e7bb7fdf83babb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "6b47a9969e66d6a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Towson University/Fall 2023/COSC-350/TCP Practice.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "31c5182c516e21bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Towson University/Fall 2023/COSC-455/Notes/Abstract Syntax Tree.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7d9bce9f4c8e1b3b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "05bea473b7b986c1",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "a60abca20f9cfb26",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "4830335c85c61ecf",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "703a01b1828f29ea",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "right": {
+    "id": "8a8c4422d6093cc8",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "0caac3ebfb2f70df",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Towson University/Fall 2023/COSC-350/TCP Practice.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "b813a5999f57b733",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Towson University/Fall 2023/COSC-350/TCP Practice.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "7fb95e56e52d6353",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Towson University/Fall 2023/COSC-350/TCP Practice.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a60abca20f9cfb26",
+  "lastOpenFiles": [
+    "Towson University/Fall 2023/COSC-350/TCP Practice.md",
+    "Towson University/Fall 2023/COSC-457/DBMS_Oct5_Lecture_Recording.webm",
+    "Towson University/How to land a software internship audio.webm",
+    "Towson University/Fall 2023/COSC-457/DBMS Assignment 3.md",
+    "Imported/SoundBytes_meeting_recording.webm",
+    "Imported/National Pan-Hellenic Council.png",
+    "Imported/Pasted image 20231005210427.png",
+    "Imported/Images/flask-icon.png",
+    "Towson University/Fall 2023/COSC-455/Notes/Context Free Grammars.md",
+    "Towson University/Fall 2023/COSC-412/WiredTech_Presentation.webm",
+    "Towson University/Fall 2023/COSC-350/Data Comm Assignment 3.md",
+    "Resume/Resume Data.md",
+    "Imported/COSC455/cosc455_assigment2.pdf",
+    "Imported/clipart-elixir-programming.png",
+    "Towson University/Fall 2023/COSC-412/Semester Project/SoundFusion AI Idea.md",
+    "Imported/ciphertech_challenge_instructions.pdf",
+    "Imported/2018 Challenge Instructions.pdf",
+    "Imported/Youtube Screenshots/DFA_example.png",
+    "To the printer/assignment2- solutions.pdf",
+    "To the printer/Regular Expressions.pdf",
+    "To the printer/DFA vs NFA.pdf",
+    "Imported/Textbook Screenshots/Software Engineering Textbook/failure_rate_software.png",
+    "Imported/summary_ER_notation.jpeg",
+    "Towson University/Fall 2023/COSC-457/DBMS Assignment 2.md",
+    "Towson University/Fraternity/Delta Sigma Phi ΔΣΦ.md",
+    "Towson University/Fall 2023/COSC-457/Databases.md",
+    "Imported/Images/celery-icon.png",
+    "Towson University/Fall 2023/COSC-455/Projects/Project 0/Project 0 – File Reader.md",
+    "Towson University/Fall 2023/COSC-350/Transport Layer.md",
+    "Imported/Textbook Screenshots/Software Engineering Textbook/softw_eng_ch1_key_concepts.png",
+    "Imported/Graphs/obsidian_graph_september.png",
+    "Towson University/Fall 2023/COSC-412/Semester Project/SoundBytes (old idea).md",
+    "Towson University/Cyber Connections/Cyber Connections Final Draft.md",
+    "Towson University/Fall 2023/COSC-457/SQL vs Relational Algebra.md",
+    "Towson University/Fall 2023/COSC-455/Emacs Lisp.md",
+    "Towson University/Fall 2023/COSC-455/Programming Languages Final Exam Review.md",
+    "Security+/CompTIA Security+ Practice Tests 1 & 2.md",
+    "Towson University/Fall 2023/COSC-350/Data Comm Assignment 2.md",
+    "Interview Math Tutor Prep.md",
+    "Game Dev/Ideas/Game Ideas.md",
+    "Towson University/Student Affairs/Civility/Civility.md",
+    "Towson University/Fall 2023/COSC-350/COSC-350 Lecture 2.md",
+    "Towson University/Fall 2023/COSC-455/Notes/Regular Expressions.md",
+    "Security+/Infosec.md",
+    "Towson University/Fall 2023/COSC-350/Open Systems Interconnection.md",
+    "Towson University/Student Affairs/Paper/Choosing Civility Final Paper.md",
+    "Sec+/Sec+ Master Graph.canvas"
+  ]
+}

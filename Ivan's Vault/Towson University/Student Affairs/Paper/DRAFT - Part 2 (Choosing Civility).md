@@ -1,0 +1,5 @@
+#choosing_civility_paper 
+
+My actions failed to meet with the core values in the Tiger Pledge, specifically those of respecting others, acting with integrity, and being accountable for my actions. I showed disrespect to the CCA and in doing so, also undermined the values of Towson University as a whole. My comments were not only inappropriate but also failed to meet the ethical standards that are expected of all members of the Towson community.
+
+I didn't handle the administrative aspects of this situation responsibly, either. I neglected the hold on my account and didn't inquire about receiving the resolution letter in a timely manner. This oversight is yet another way I failed to be accountable. I now can understand that my decorated one-card could be viewed as a security risk, and I see the gravity of the situation. Moving forward, I am committed to better aligning my actions with the values laid out in the Tiger Pledge.

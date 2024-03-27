@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "0b60455a28624faf",
+    "type": "split",
+    "children": [
+      {
+        "id": "6cae186f7fe9828c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1205cdce6b763274",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "0ea6bde5de23e5bf",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "8cf849503f45828e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "a86e63105eafe024",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sep 15, 2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c1d3521fa4b3ea95",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5150b5046cbeda02",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "20607913413dd9b5",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "c01cbfaaef7ac73c",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "28d90a3211ded123",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "c1d6034b27a76bcf",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f9223a880780c8c6",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Sep 15, 2023.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "5206b1cc740f8ba9",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Sep 15, 2023.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "812d04d596013e25",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Sep 15, 2023.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a86e63105eafe024",
+  "lastOpenFiles": [
+    "Sep 11, 2023.md",
+    "Sep 12, 2023.md",
+    "Sep 08, 2023.md",
+    "Sep 07, 2023.md",
+    "Sep 05, 2023.md",
+    "Sep 02, 2023.md",
+    "Sep 03, 2023.md",
+    "Sep 04, 2023.md",
+    "Sep 09, 2023.md",
+    "Sep 14, 2023.md",
+    "Sep 28, 2023.md",
+    "Sep 15, 2023.md",
+    "Aug 28, 2023.md",
+    "Aug 29, 2023.md",
+    "Aug 09, 2023.md",
+    "Aug 11, 2023.md",
+    "Aug 23, 2023.md",
+    "Aug 13, 2023.md",
+    "Aug 25, 2023.md",
+    "Aug 12, 2023.md",
+    "Aug 24, 2023.md",
+    "Aug 08, 2023.md"
+  ]
+}

@@ -1,0 +1,3 @@
+#choosing_civility_book
+
+A "Polite Lie" refers to a falsehood told not out of deceit but out of a desire to avoid hurting someone's feelings or to maintain social harmony. For example, telling a host that their dinner was delicious when it was not to your taste. While such a lie may avoid immediate discomfort, it comes at the cost of honesty and can be viewed as hypocritical. However, the "polite lie" is often considered acceptable or even necessary because it serves a greater social good: preserving someone's dignity or maintaining a positive atmosphere.

@@ -1,0 +1,3 @@
+#choosing_civility_book
+
+"Polite Applause" is the act of clapping, not necessarily to show genuine appreciation but to conform to social expectations. For instance, you might give polite applause at the end of a mediocre performance to show respect for the effort put in, even if you didn’t enjoy it. This can be viewed as insincere but is generally accepted as a social norm, serving to encourage or, at least, not to discourage.

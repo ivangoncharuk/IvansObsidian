@@ -1,0 +1,36 @@
+s,
+.cm-s-obsidian span.cm-formatting-highlight,
+.cm-s-obsidian span.cm-highlight {
+  background: rgb(175, 175, 175);
+  color: transparent;
+  border-radius: 3px;
+  padding-left: 7px;
+  padding-right: 7px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  text-decoration: none;
+  transition-property: background, color;
+  transition-duration: 5s;
+  transition-timing-function: ease-out;
+  transition-delay: 10s;
+  font-weight: bold
+}
+
+s,
+.cm-s-obsidian span.cm-formatting-highlight:hover,
+.cm-s-obsidian span.cm-highlight:hover {
+  background: #FFF09B;
+  color: #3B4252;
+  cursor: none;
+  transition-property: color;
+  transition-duration: 0.1s;
+  transition-timing-function: ease-out;
+  transition-delay: 0.1s;
+  font-weight: bold
+}
+
+s,
+.cm-s-obsidian span.cm-formatting-highlight:active,
+.cm-s-obsidian span.cm-highlight:active {
+  cursor: auto;
+}

@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": true,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#SY0-601",
+      "color": {
+        "a": 1,
+        "rgb": 10273300
+      }
+    },
+    {
+      "query": "path:\"Ivan's Personal Vault/Towson University\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14619048
+      }
+    },
+    {
+      "query": "tag:#todo  ",
+      "color": {
+        "a": 1,
+        "rgb": 11313370
+      }
+    },
+    {
+      "query": "path:\"Ivan's Personal Vault/Game Dev\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -0.5,
+  "nodeSizeMultiplier": 2.734228515625,
+  "lineSizeMultiplier": 2.4507080078125,
+  "collapse-forces": false,
+  "centerStrength": 0.507447864945382,
+  "repelStrength": 11.9761668321748,
+  "linkStrength": 0.729365033004264,
+  "linkDistance": 151,
+  "scale": 0.25957767108959334,
+  "close": true
+}
