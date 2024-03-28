@@ -4,15 +4,46 @@
     "type": "split",
     "children": [
       {
-        "id": "5aeda449dceb8d6f",
+        "id": "cdb7ba6860350179",
         "type": "tabs",
         "children": [
           {
-            "id": "01cda66bea8070c4",
+            "id": "3a327e689a5d0a75",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Java Code.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bab5067aec28715a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "82a20e00ba0971c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Modular Exponentiation & Euler phi function.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +112,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 367.50124740600586
+    "width": 367.50124740600586,
+    "collapsed": true
   },
   "right": {
     "id": "28270ef431e5bda3",
@@ -96,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Java Code.md"
+              }
             }
           },
           {
@@ -113,6 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Java Code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,6 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Java Code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,18 +198,20 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Java Code.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 275.5
+    "width": 275.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "markdown-table-editor:Open Markdown Table Editor": false,
       "markdown-importer:Open format converter": false,
       "random-note:Open random note": false,
       "publish:Publish changes...": true,
@@ -187,17 +225,26 @@
       "zk-prefixer:Create new unique note": false,
       "workspaces:Manage workspace layouts": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "obsidian-media-db-plugin:Add new Media DB entry": true,
-      "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-book-search-plugin:Create new book note": false
+      "obsidian-book-search-plugin:Create new book note": false,
+      "obsidian-media-db-plugin:Add new Media DB entry": false,
+      "templater-obsidian:Templater": false,
+      "markdown-table-editor:Open Markdown Table Editor": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "01cda66bea8070c4",
+  "active": "61b24738db5396ad",
   "lastOpenFiles": [
-    "Tables.md",
+    "Untitled.md",
+    "Modular Exponentiation & Euler phi function.md",
+    "New Hire - Ivan Goncharuk.md",
+    "Java Code.md",
+    "Python.md",
+    "Ivan's Vault/Towson University/Spring 2024/Cryptography/Python Implementations/Euclid Python Implementation.md",
+    "Driver 1234.md",
     "Untitled.canvas",
+    "Daily Notes/Mar 27, 2024.md",
+    "Tables.md",
     "Ivan's Vault/Game Dev/🧜‍♀️ Mermaid Syntax.md",
     "Daily Notes/Nov 02, 2023.md",
     "Daily Notes/September/Sep 04, 2023.md",
@@ -205,10 +252,8 @@
     "Daily Notes/Mar 09, 2024.md",
     "Daily Notes/Mar 02, 2024.md",
     "Daily Notes/Jan 07, 2024.md",
-    "Daily Notes/Mar 27, 2024.md",
     "Daily Notes/Nov 14, 2023.md",
     "Daily Notes/Nov 29, 2023.md",
-    "Modular Exponentiation & Euler phi function.md",
     "Ivan's Vault/Towson University/Spring 2024/OOP/Object Oriented Programming.md",
     "Ivan's Vault/Towson University/Spring 2024/Cryptography/Feb 12 Lecture.md",
     "Ethics Case Paper 1 Stuxnet Submission.md",
@@ -217,12 +262,6 @@
     "Ivan's Vault/Towson University/Spring 2024/Cryptography/Extended Euclid Python v2.md",
     "Untitled 1.md",
     "Excalidraw/Drawing 2024-03-12 10.51.04.excalidraw.md",
-    "Ivan's Vault/Towson University/Spring 2024/Cryptography/Feb 5 Lecture.md",
-    "Ivan's Vault/shenanigans/Ivan.md",
-    "boobs.md",
-    "Ivan's Vault/Towson University/Spring 2024/Cryptography/Feb 14 Lecture.md",
-    "Ivan's Vault/Towson University/Spring 2024/Cryptography/Feb 19 Lecture.md",
-    "Ivan's Vault/Towson University/Spring 2024/Cryptography/Feb 21 Lecture.md",
     "Ivan's Vault/shenanigans",
     "Lisp Notes.pdf",
     "taskbone_ex_image.png",
